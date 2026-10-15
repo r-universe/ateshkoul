@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "PredPsych"]
 	path = PredPsych
-	url = https://github.com/cran/PredPsych
+	url = https://github.com/ateshkoul/predpsych
